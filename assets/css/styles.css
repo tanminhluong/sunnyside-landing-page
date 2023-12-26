@@ -18,6 +18,10 @@
   --font-fraunces: "Fraunces", sans-serif;
 }
 
+body {
+  background-color: rgb(255 251 247);
+}
+
 a {
   text-decoration: none;
   font-family: var(--font-barlow);
@@ -307,7 +311,7 @@ a.btn.btn-contact:hover {
 
 footer {
   width: 100%;
-  background: var(--gray-blue);
+  background: rgb(143 212 198);
 }
 
 .footer__content {
